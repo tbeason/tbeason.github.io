@@ -30,7 +30,6 @@ Arizona State University
 @@
 @@
 @@col-sm-8
-{{insertmd _assets/sections/aboutme.md}}
 @@
 @@
 @@
