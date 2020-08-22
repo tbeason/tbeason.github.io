@@ -41,7 +41,7 @@ I study the distributional properties of household risky shares, the fraction of
 
 
 
-@@font-weight-bold,mb-0 On Finite Horizon Investments and Their Risks @@
+@@font-weight-bold,mb-0 Terminal Wealth in the Presence of Portfolio Contributions @@
 @@mb-0 Draft coming soon.@@
 I provide a clean, tractable way to evaluate the moments and risk exposures of future financial wealth. The analysis operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. Specific applications include saving for retirement or college expenses and participation in ESOPs.
 
