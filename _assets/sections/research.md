@@ -5,9 +5,9 @@
 ~~~
 
 
-@@font-weight-bold,mb-0 Consumption, Dividends, Labor Income, and Risk Premia @@
+@@font-weight-bold,mb-0 Cash Flows in Equilibrium Asset Pricing Models @@
 @@mb-0 _Job Market Paper_ Draft coming soon.@@
-I provide a modification to the cash flow process which makes any discrete time representative agent consumption-based asset pricing model simultaneously consistent with a number of stylized facts about aggregate labor income growth, labor's share of consumption, and growth rates in stock market dividends. The modification is parsimonious in that it adds only 4 parameters which are directly tied to observable features of the labor share. When applied to existing leading asset pricing models, the modified models continue to match the commonly-targeted macroeconomic moments, but also reproduce the term structures of growth rate volatility, and of risk premia, and provide a partial explanation of recent evidence regarding asymmetric dependence between consumption and dividend growth rates.
+I propose a way to model the cash flows in consumption-based asset pricing models that allows cash flows to have dynamic properties distinct from that of consumption. The method models dividends as the residual piece of consumption following labor income. The modification is parsimonious in that it adds only 4 parameters, it relies on observable economic moments as opposed to unobservable latent state variables, and it is economically motivated. When embedded into existing asset pricing models, the models are able to reproduce a number of salient facts about macroeconomic series, including the term structures of growth rate volatility and co-movement. The approach provides richer asset pricing dynamics  and also sheds light on the role that non-financial wealth plays in the pricing of financial assets.
 
 
 
@@ -27,8 +27,7 @@ the data, while models with a higher price of tail risk can.
 
 @@font-weight-bold,mb-0 The Anatomy of Trading Algorithms @@
 @@mb-0 with [Sunil Wahal](https://asu.pure.elsevier.com/en/persons/sunil-wahal). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001) @@
-We study the anatomy of four widely used standardized institutional trading algorithms
-representing \$675 billion in demand from 961 institutions between 2012 and 2016. The central tradeoff in these algorithms is between the desire to trade and transaction costs. Large parent orders generate hundreds of child orders which strategically employ the price, time, and display priority rules embodied in market structure to navigate this tradeoff. The distribution of child orders is non-random, generating strategic runs which oscillate between providing and taking liquidity. Price impact occurs both at the time an order is submitted to the book (regardless of whether it is filled), and at the time of execution. Passive child orders have much lower likelihood of execution but still incur substantial price impact. Conversely, marketable orders, even though immediately executable, do not necessarily guarantee execution and generate even larger price impact.
+We study the anatomy of four widely used institutional trading algorithms representing \$675 billion in demand from 961 institutions between 2012 and 2016. Parent orders generate hundreds of child orders which strategically employ price, time-in-force, and display priority rules to navigate the tradeoff between the desire to trade and minimizing transaction costs. Child orders incur price impact at the time they are submitted to the book regardless of whether or not they are (ex post) filled, and even when passively priced relative to the prevailing quote. The intra-parent distribution of child orders is non-random, generating strategic runs which oscillate between the aggressive or passive side of the spread. Despite algorithmic attempts to reduce their influence, programmatic child-level price, time-in-force, and display choices aggregate up to parent-level trading costs borne by investors. 
 
 
 
@@ -43,7 +42,7 @@ I study the distributional properties of household risky shares, the fraction of
 
 @@font-weight-bold,mb-0 Terminal Wealth in the Presence of Portfolio Contributions @@
 @@mb-0 Draft coming soon.@@
-I provide a clean, tractable way to evaluate the moments and risk exposures of future financial wealth. The analysis operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. Specific applications include saving for retirement or college expenses and participation in ESOPs.
+I provide a tractable way to evaluate the moments and risk exposures of future financial wealth. The analysis operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. Specific applications include saving for retirement or college expenses and participation in ESOPs.
 
 
 
