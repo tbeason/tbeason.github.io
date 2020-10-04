@@ -1,9 +1,7 @@
 # Research
 
-~~~
-<h3 class="text-muted">Working Papers</h3>
-~~~
 
+@@h3,text-muted Working Papers @@
 
 @@font-weight-bold,mb-0 Cash Flows in Equilibrium Asset Pricing Models @@
 @@mb-0 _Job Market Paper_ Draft coming soon.@@
@@ -49,9 +47,7 @@ I provide a tractable way to evaluate the moments and risk exposures of future f
 
 \\
 
-~~~
-<h3 class="text-muted">Pre-PhD Work</h3>
-~~~
+@@h3,text-muted Pre-PhD Work @@
 
 @@font-weight-bold,mb-0 Simulation of a Financial Market: The Possibility of Catastrophic Disequilibrium @@
 @@mb-0 with Amit Sinha, Kelly Roos, & Philip Horvath.  _Chaos, Solitons, & Fractals_, 2019, 125, 13-16. [Publisher Link](http://www.sciencedirect.com/science/article/pii/S0960077919301705) @@

@@ -3,21 +3,20 @@
 
 @@container
 @@row
-@@col-sm-4
-@@card,w-75
+@@col-md-4,col-lg-3
+@@card
 ~~~
 <img class="card-img-top" src="/assets/tbeason.png" alt="Tyler Beason" style="max-width:100%;height:auto">
 ~~~
-@@card-body,text-left
-~~~
-<h3 class="card-title">Tyler Beason</h3>
-~~~
+@@card-body,text-center
+@@h2,card-title Tyler Beason @@
+@@card-text
+Finance PhD Candidate, Arizona State University
+@@
 
-Finance PhD Candidate
 
-Arizona State University
 
-@@container,text-center
+@@container
 ~~~
 <a href="mailto:tbeason@asu.edu"><i class="fa fa-envelope fa-lg"></i></a>
 <!-- <a href="https://twitter.com/tbeas"><i class="fab fa-twitter fa-lg"></i></a> -->
