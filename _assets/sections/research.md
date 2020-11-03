@@ -3,9 +3,10 @@
 
 @@h3,text-muted Working Papers & In Progress @@
 
-@@font-weight-bold,mb-0 Cash Flows in Equilibrium Asset Pricing Models @@
+
+@@font-weight-bold,mb-0 The Mathematics of Saving @@
 @@mb-0 _Job Market Paper_ Draft coming soon.@@
-I propose a way to model the cash flows in consumption-based asset pricing models that allows cash flows to have dynamic properties distinct from that of consumption. The method models dividends as the residual piece of consumption following labor income. The modification is parsimonious in that it adds only 4 parameters, it relies on observable economic moments as opposed to unobservable latent state variables, and it is economically motivated. When embedded into existing asset pricing models, the models are able to reproduce a number of salient facts about macroeconomic series, including the term structures of growth rate volatility and co-movement. The approach provides richer asset pricing dynamics  and also sheds light on the role that non-financial wealth plays in the pricing of financial assets.
+I provide a new perspective on the process of repeated saving using financial products with potentially uncertain rates of return, such as savings, brokerage, or retirement accounts. A financial account can be viewed as a portfolio of investments in _itself_ with differing _horizon_ -- it follows that standard portfolio theory applies. The analysis makes extensive use of cumulant generating functions, and I pursue two approaches for tractability. I first develop a novel iterative algorithm for computing multi-period cumulant generating functions, while the second approach exploits a truncated cumulant generating function approximation. I discuss the benefits of this framework for financial planners and policymakers, how it relates to current modeling techniques, and possible extensions to multiple assets and uncertain savings amounts.
 
 
 
@@ -38,9 +39,9 @@ I study the distributional properties of household risky shares, the fraction of
 
 
 
-@@font-weight-bold,mb-0 Terminal Wealth in the Presence of Portfolio Contributions @@
+@@font-weight-bold,mb-0 Cash Flows in Equilibrium Asset Pricing Models @@
 @@mb-0 Draft coming soon.@@
-I provide a tractable way to evaluate the moments and risk exposures of future financial wealth. The analysis operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. Specific applications include saving for retirement or college expenses and participation in ESOPs.
+I propose a way to model the cash flows in consumption-based asset pricing models that allows cash flows to have dynamic properties distinct from that of consumption. The method models dividends as the residual piece of consumption following labor income. The modification is parsimonious in that it adds only 4 parameters, it relies on observable economic moments as opposed to unobservable latent state variables, and it is economically motivated. When embedded into existing asset pricing models, the models are able to reproduce a number of salient facts about macroeconomic series, including the term structures of growth rate volatility and co-movement. The approach provides richer asset pricing dynamics  and also sheds light on the role that non-financial wealth plays in the pricing of financial assets.
 
 
 
