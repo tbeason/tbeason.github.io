@@ -17,7 +17,7 @@ the data, while models with a higher price of tail risk can.
 
 
 @@font-weight-bold,mb-0 The Anatomy of Trading Algorithms @@
-@@mb-0 with [Sunil Wahal](https://asu.pure.elsevier.com/en/persons/sunil-wahal). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001) _Submitted_ @@
+@@mb-0 with [Sunil Wahal](https://asu.pure.elsevier.com/en/persons/sunil-wahal). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001) @@
 We study the anatomy of four widely used institutional trading algorithms representing \$675 billion in demand from 961 institutions between 2012 and 2016. Parent orders generate hundreds of child orders which strategically employ price, time-in-force, and display priority rules to navigate the tradeoff between the desire to trade and minimizing transaction costs. Child orders incur price impact at the time they are submitted to the book regardless of whether or not they are (ex post) filled, and even when passively priced relative to the prevailing quote. The intra-parent distribution of child orders is non-random, generating strategic runs which oscillate between the aggressive or passive side of the spread. Despite algorithmic attempts to reduce their influence, programmatic child-level price, time-in-force, and display choices aggregate up to parent-level trading costs borne by investors. 
 
 
