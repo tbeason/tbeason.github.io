@@ -3,16 +3,9 @@
 
 @@h3,text-muted Working Papers @@
 
-@@font-weight-bold,mb-0 On Sources of Risk Premia in Representative Agent Models @@
-@@mb-0 with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) _R&R at the Journal of Political Economy_ @@
-We use options and return data to decompose unconditional risk premia
-into different parts of the return state space. In the data, the entire equity
-premium is attributable to monthly returns below -11.3%, but returns in the
-extreme left tail matter very little. In contrast, leading asset pricing models
-based on habits, long-run risks, and rare disasters attribute the premium almost
-exclusively to returns above -11.3%, or to the extreme left tail. We find
-that model extensions with a larger quantity of tail risk cannot account for
-the data, while models with a higher price of tail risk can.
+@@font-weight-bold,mb-0 Dissecting the Equity Premium @@
+@@mb-0 with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) _R&R at the Journal of Political Economy_ @@
+We use option prices and realized returns to decompose risk premia into different parts of the return state space. In the data, 8/10 of the average equity premium is attributable to monthly returns below -10%, but returns below -30% matter very little. In contrast, leading asset pricing models based on habits, long-run risks, rare disasters, undiversifiable idiosyncratic risk, and constrained intermediaries attribute the premium predominantly to returns above -10% or to the extreme left tail. We show that the discrepancy arises from an unrealistically small price of risk for stock market tail events. 
 
 
 
