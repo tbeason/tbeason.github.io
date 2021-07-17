@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>code/index.html</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>teaching/index.html</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>404/index.html</loc>
-    <lastmod>2021-05-14</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>index.html</loc>
-    <lastmod>2021-05-14</lastmod>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>research/index.html</loc>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
