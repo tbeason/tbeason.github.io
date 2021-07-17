@@ -1,20 +1,26 @@
-<div class="container-xl">
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-        <a class="navbar-brand" href="/" target="_self">Tyler Beason</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#">tbeason.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <div class="collapse navbar-collapse  justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#research" target="_self">Research</a>
+                    <a class="nav-link {{ispage index}}active{{end}}" href="/#" target="_self">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#code" target="_self">Code</a>
+                    <a class="nav-link {{ispage research}}active{{end}}" href="/research/" target="_self">Research</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link {{ispage teaching}}active{{end}}" href="/teaching/" target="_self">Teaching</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {{ispage code}}active{{end}}" href="/code/" target="_self">Code</a>
+                </li>
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="https://tbeason.com/CV/tbeason-cv.pdf">CV</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="https://tbeason.com/financeconferences">Conference Calendar</a>
                 </li>
