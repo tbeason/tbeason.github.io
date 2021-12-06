@@ -25,13 +25,15 @@
 
 
 
-@@h5,text-muted Working Papers @@
+@@h5,text-muted Publications @@
 
 **Dissecting the Equity Premium** \\
-with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) _R&R at the Journal of Political Economy_
+with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) \\
+**_Journal of Political Economy_**, Accepted.
 
+\\
 
-
+@@h5,text-muted Working Papers @@
 
 **The Anatomy of Trading Algorithms** \\
 with [Sunil Wahal](https://asu.pure.elsevier.com/en/persons/sunil-wahal). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)
