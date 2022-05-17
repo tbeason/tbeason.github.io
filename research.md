@@ -28,7 +28,7 @@
 @@h5,text-muted Publications @@
 
 **Dissecting the Equity Premium** \\
-with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) \\
+with [David Schreindorfer](http://www.davidschreindorfer.com/). [Publisher Link](https://www.journals.uchicago.edu/doi/10.1086/720396) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) \\
 **_Journal of Political Economy_**, Accepted.
 
 \\
