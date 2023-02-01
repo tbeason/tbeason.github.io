@@ -28,8 +28,9 @@
 @@h5,text-muted Publications @@
 
 **Dissecting the Equity Premium** \\
-with [David Schreindorfer](http://www.davidschreindorfer.com/). [Publisher Link](https://www.journals.uchicago.edu/doi/10.1086/720396) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf) \\
-**_Journal of Political Economy_**, Accepted.
+with [David Schreindorfer](http://www.davidschreindorfer.com/). _Journal of Political Economy_, 2022, 130(8): 2203-2222. \\
+[Publisher Link](https://www.journals.uchicago.edu/doi/10.1086/720396) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) [Online Supplement](/assets/DissectingtheEquityPremium_Supplement.pdf)
+
 
 \\
 
@@ -49,11 +50,11 @@ with [Sunil Wahal](https://asu.pure.elsevier.com/en/persons/sunil-wahal). [SSRN]
 
 @@h5,text-muted Work in Progress @@
 
+**The Mathematics of Terminal Wealth** \\
+Draft coming soon.
+
 **Heterogeneity and Household Portfolio Choice** \\
 Revised draft coming soon.
-
-**The Mathematics of Saving** \\
-Draft coming soon.
 
 
 \\
