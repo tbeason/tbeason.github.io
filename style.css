@@ -110,6 +110,7 @@ body {
 
 .btn:hover {
     background: var(--accent-hover);
+    color: #fff;
     transform: translateY(-2px);
 }
 
