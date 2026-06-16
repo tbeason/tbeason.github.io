@@ -87,6 +87,12 @@ body {
 .tagline {
     color: var(--text-secondary);
     font-size: 1.1rem;
+    margin-bottom: 8px;
+}
+
+.credentials {
+    color: var(--text-muted);
+    font-size: 0.95rem;
     margin-bottom: 24px;
 }
 
