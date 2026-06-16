@@ -8,7 +8,7 @@ Personal website for Tyler Beason, deployed to GitHub Pages at tbeason.com. Simp
 
 ## Site Structure
 
-- `index.html` - Single-page site with all content (About, Insights, Code, Teaching)
+- `index.html` - Single-page site with all content (About, Insights, Code)
 - `style.css` - Minimal custom styles
 - `assets/` - Images, PDFs, favicons
 - `CNAME` - Custom domain configuration

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="color-scheme" content="light dark">
     <title>Tyler Beason</title>
-    <meta name="description" content="Quantitative finance expert specializing in asset pricing, algorithmic trading, and computational finance.">
+    <meta name="description" content="Quantitative finance researcher — investment research, multi-asset and risk, portfolio construction. Published researcher; CFA Level III Candidate.">
     <link rel="stylesheet" href="style.css">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
@@ -17,9 +17,10 @@
         <header class="hero">
             <img src="assets/beason_tyler_square.jpg" alt="Tyler Beason" class="profile-photo">
             <h1>Tyler Beason</h1>
-            <p class="tagline">Quantitative Finance &middot; Asset Pricing &middot; Algorithmic Trading</p>
+            <p class="tagline">Investment Research &middot; Multi-Asset &amp; Risk &middot; Quantitative Finance</p>
+            <p class="credentials">Published Researcher &middot; CFA Level III Candidate</p>
             <div class="hero-links">
-                <a href="https://tbeason.com/CV/tbeason-cv.pdf" class="btn">CV</a>
+                <a href="assets/tbeason-resume.pdf" class="btn">Resume</a>
                 <a href="mailto:tylerbeasonpublic@gmail.com" class="btn">Email</a>
                 <a href="https://www.linkedin.com/in/tyler-beason-9455502b/" class="btn">LinkedIn</a>
                 <a href="https://github.com/tbeason" class="btn">GitHub</a>
@@ -29,10 +30,8 @@
         <!-- About Section -->
         <section id="about">
             <h2>About</h2>
-            <p>I specialize in quantitative modeling of financial markets, from market microstructure to aggregate asset pricing. My work bridges theory and empirics, with applications in portfolio construction, risk management, and algorithmic trading.</p>
-            <p>Currently Assistant Professor of Finance at Virginia Tech. Ph.D. in Finance from Arizona State University, with prior degrees in quantitative finance and mathematics from Bradley University.</p>
+            <p>Quantitative finance researcher focused on what drives returns across equities, fixed income, and derivatives — pairing rigorous empirical methods with portfolio construction, risk management, and manager evaluation. Ph.D. in Finance from Arizona State University; formerly Assistant Professor of Finance at Virginia Tech (2021&ndash;2026).</p>
 
-            <h3>Areas of Expertise</h3>
             <ul class="expertise-list">
                 <li>Asset Pricing & Portfolio Construction</li>
                 <li>Tail Risk & Downside Protection</li>
@@ -56,27 +55,15 @@
                 </p>
             </div>
 
-            <div class="publication">
-                <h3>The Anatomy of Trading Algorithms</h3>
-                <p class="pub-meta">with Sunil Wahal</p>
-                <p class="pub-links">
-                    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001">SSRN</a>
-                </p>
-            </div>
-
-            <div class="publication">
-                <h3>Simulation of a Financial Market: The Possibility of Catastrophic Disequilibrium</h3>
-                <p class="pub-meta">with Amit Sinha, Kelly Roos, & Philip Horvath &middot; <em>Chaos, Solitons, & Fractals</em>, 2019</p>
-                <p class="pub-links">
-                    <a href="http://www.sciencedirect.com/science/article/pii/S0960077919301705">Publisher</a>
-                </p>
-            </div>
+            <p>Additional working papers and publications on
+                <a href="https://scholar.google.com/citations?hl=en&user=vHF28uYAAAAJ">Google Scholar</a> and
+                <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2332692">SSRN</a>.</p>
         </section>
 
         <!-- Code Section -->
         <section id="code">
             <h2>Code</h2>
-            <p>I maintain several open source Julia packages for quantitative finance:</p>
+            <p>I build and maintain open source tools for quantitative finance, mostly in Julia — spanning empirical research data and high-performance market-data infrastructure:</p>
 
             <ul class="project-list">
                 <li>
@@ -88,18 +75,17 @@
                     <span class="project-desc">Local constant and local linear kernel regression</span>
                 </li>
                 <li>
-                    <a href="https://github.com/tbeason/DBN.jl">DBN.jl</a>
-                    <span class="project-desc">Databento Binary Encoding (DBN) for high-performance market data</span>
+                    <a href="https://github.com/tbeason/DatabentoBinaryEncoding.jl">DatabentoBinaryEncoding.jl</a>
+                    <span class="project-desc">Read and write Databento Binary Encoding (DBN) for high-performance market data</span>
                 </li>
-            </ul>
-        </section>
-
-        <!-- Teaching Section -->
-        <section id="teaching">
-            <h2>Teaching</h2>
-            <ul class="teaching-list">
-                <li><strong>FIN-3144 Investments</strong> &mdash; Undergraduate course covering portfolio theory, asset pricing, and security analysis</li>
-                <li><strong>FIN-6004 Doctoral Development</strong> &mdash; Ph.D. seminar on research methods and professional development</li>
+                <li>
+                    <a href="https://github.com/tbeason/DatabentoAPI.jl">DatabentoAPI.jl</a>
+                    <span class="project-desc">Julia client for the Databento Historical (HTTP) and Live (TCP) market-data APIs</span>
+                </li>
+                <li>
+                    <a href="https://github.com/tbeason/duckdb-dbn">duckdb-dbn</a>
+                    <span class="project-desc">DuckDB extension (C++) for reading Databento Binary Encoding (DBN) files</span>
+                </li>
             </ul>
         </section>
 
