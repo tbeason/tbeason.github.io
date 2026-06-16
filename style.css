@@ -69,12 +69,8 @@ body {
     width: 140px;
     height: 140px;
     border-radius: 50%;
+    object-fit: cover;
     margin-bottom: 24px;
-    transition: transform 0.3s ease;
-}
-
-.profile-photo:hover {
-    transform: scale(1.05);
 }
 
 .hero h1 {
